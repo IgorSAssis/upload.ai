@@ -32,7 +32,6 @@
 * [React](https://reactjs.org/)
 * [TailwindCSS](https://tailwindcss.com/)
 * [Prisma](https://www.prisma.io/)
-* [PostgreSQL](https://www.postgresql.org/)
 * [Fastify](https://fastify.dev/)
 * [shadcn/ui](https://ui.shadcn.com/)
 
