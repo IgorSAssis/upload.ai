@@ -46,8 +46,8 @@
 $ cd api
 $ pnpm install
 $ pnpm prisma generate
-$ pnpm prisma migrate dev
-$ pnpm prisma db seed
+$ pnpm run prisma:migrate:dev
+$ pnpm run prisma:seed:dev
 $ pnpm run dev
 ```
 Create a **.env** file and add the following settings:
