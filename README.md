@@ -15,7 +15,6 @@
 * [Technologies](#Technologies)
 * [Deployment](#Deployment)
 * [How to run](#HowToRun)
-* [License](#License)
 
 <a name="Screenshots" />
 
@@ -61,8 +60,3 @@ $ cd web
 $ pnpm install
 $ pnpm run dev
 ```
-
-<a name="License" />
-
-## :page_facing_up: Licenses
-This project is under the  [MIT license](https://github.com/IgorSAssis/Feed-Get/blob/master/LICENSE)
