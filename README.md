@@ -52,6 +52,7 @@ $ pnpm run dev
 ```
 Create a **.env** file and add the following settings:
 ```shell
+DATABASE_URL="file:dev.db"
 OPENAI_KEY=<YOUR_OPENAI_KEY>
 ```
 ### 🌐 Website
